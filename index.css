@@ -65,7 +65,8 @@ body{
         height: 100%;
         top:50px;
         width: 250px;
-        display: none;
+        display: block;
+        transform:translateX(-100%);
     }
     .list li{
         padding-left: 10px;
@@ -155,7 +156,9 @@ body{
         display: none;
     }
 }
-
+.please{
+    transform:translateX(0%);
+}
 
 
 
