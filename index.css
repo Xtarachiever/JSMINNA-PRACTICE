@@ -17,16 +17,11 @@ body{
 #nav{
     display:none;
 }
- .header{
-    color: white;
-    font-size: 20px;
-}
 .list{
     display: flex;
     justify-content: space-around;
     width: 30%;
 }
-
 .list li{
     list-style: none;
 }
